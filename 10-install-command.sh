@@ -8,5 +8,5 @@ echo "ERROR:: please run the script with root"
 else
 echo " you are running with root user"
 
-dnf install mysql -y
+#dnf install mysql -y
 
