@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GREETINGS=" how are you "
+GREETINGS="how are you"
 
-$GREETINGS
+echo "$GREETINGS"
 echo "PID of script-1 : $$"
